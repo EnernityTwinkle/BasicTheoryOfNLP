@@ -2,7 +2,6 @@
 
 ![Transformer](image/Transformer%20framework.png)
 
-给定一个输入句子，句长为100，词向量为300，构成的输入矩阵为（100*300），进入Transformer进行编码时，首先进入自注意力层，
 
 ## 多头注意力
 自注意力：$Attention(Q,K,V)=softmax(\frac{QK^{T}}{\sqrt{d_k}})V$
