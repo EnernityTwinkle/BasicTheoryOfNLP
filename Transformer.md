@@ -35,7 +35,7 @@ Transformer的前馈神经网络采用了两个线性变换，激活函数为Rel
 
     其中pos是对应的词序列位置，i是对应的词向量的下标，dim是词向量维度的大小。
 
-* 为什么Position Embedding采用正余弦函数？[<sup>1</sup>]((#position-encoding-1))
+* 为什么Position Embedding采用正余弦函数？[<sup>1</sup>](#残差网络-1)
 
     \>>因为有$$PE(pos+k)=PE(pos)+PE(k)$$,这样使得模型能够记住相对位置信息。
 
@@ -44,7 +44,8 @@ Transformer的前馈神经网络采用了两个线性变换，激活函数为Rel
 
     \>\>缓解梯度消失问题。
 
-* Transformer中的残差连接为什么能缓解梯度消失问题？[<sup>2</sup>](#残差网络-1)
+* Transformer中的残差连接为什么能缓解梯度消失问题？[<sup>4</sup>]()
+  
     \>>通过在一个浅层网络基础上叠加$y=x$的层（称为恒等映射），可以让网络随深度增加而不退化。同时，由于浅层的输入值直接连接到了端部的位置，避免了在层层映射过程中，由于权重小于1而导致的梯度消失现象。
 
 * Norm层的作用是什么？
@@ -60,9 +61,52 @@ Transformer的前馈神经网络采用了两个线性变换，激活函数为Rel
 
     Sequence mask:在Decoder中，当前的输出应该只依赖于t时刻之前的输入，而不应该依赖于t时刻之后的输入，此时也需要进行mask。具体的做法是产生一个上三角矩阵，上三角的值全为1，下三角的值全为0，对角线也为0.
 
-# 参考文献
-<div id='position-encoding-1'></div>
-- [1] [Transformer为什么选用正余弦函数作为位置编码函数](https://www.zhihu.com/question/347678607)
 
-<div id='残差网络-1'></div>
-- [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+# 参考文献
+
+<div id="position-encoding-1"></div>
+
+[1] [Transformer为什么选用正余弦函数作为位置编码函数](https://www.zhihu.com/question/347678607)
+
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[3] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[3] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[3] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+<div id="残差网络-1"></div>
+
+[4] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
