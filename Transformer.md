@@ -36,7 +36,8 @@ Transformer的前馈神经网络采用了两个线性变换，激活函数为Rel
     其中pos是对应的词序列位置，i是对应的词向量的下标，dim是词向量维度的大小。
 
 * 为什么Position Embedding采用正余弦函数？[<sup>1</sup>]((#position-encoding-1))
-\>>因为有$$PE(pos+k)=PE(pos)+PE(k)$$,这样使得模型能够记住相对位置信息。
+
+    \>>因为有$$PE(pos+k)=PE(pos)+PE(k)$$,这样使得模型能够记住相对位置信息。
 
 
 * Transformer结构中残差连接的作用是什么？
@@ -61,7 +62,7 @@ Transformer的前馈神经网络采用了两个线性变换，激活函数为Rel
 
 # 参考文献
 <div id='position-encoding-1'></div>
--[1] [Transformer为什么选用正余弦函数作为位置编码函数](https://www.zhihu.com/question/347678607)
+- [1] [Transformer为什么选用正余弦函数作为位置编码函数](https://www.zhihu.com/question/347678607)
 
 <div id='残差网络-1'></div>
--[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+- [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
