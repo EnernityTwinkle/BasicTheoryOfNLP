@@ -82,19 +82,105 @@ Transformer的前馈神经网络采用了两个线性变换，激活函数为Rel
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
 
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
 
 
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
-[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
 [3] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
 
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
 [3] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+[3] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+
+[3] [残差网络原理](https://blog.csdn.net/
+LEEANG121/article/details/104171683)
 
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)[2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
