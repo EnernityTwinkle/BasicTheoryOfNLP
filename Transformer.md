@@ -73,3 +73,7 @@ Transformer的前馈神经网络采用了两个线性变换，激活函数为Rel
 <div id="残差网络-1"></div>
 
 [2] [残差网络原理](https://blog.csdn.net/LEEANG121/article/details/104171683)
+
+<div id="transformer-1"></div>
+
+[3] [Transformer原理解析](https://mp.weixin.qq.com/s/PtDZqM6IEGrX6juHBrh9uA)
