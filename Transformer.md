@@ -14,7 +14,8 @@
 Add操作是引入残差结构，这种结构能够缓解梯度消失，便于模型优化。Norm是Layer Normalization过程，能够缓解梯度弥散，同样是为了更好地进行网络训练的常用手段。
 
 ## Feed Forward
-Transformer的前馈神经网络采用了两个线性变换，激活函数为Relu,公式如下：$$ FFN(x)=Relu(0,xW_1+b_1)W_2+b_2 $$
+Transformer的前馈神经网络采用了两个线性变换，激活函数为Relu,公式如下：
+$$ FFN(x)=Relu(0,xW_1+b_1)W_2+b_2 $$
 
 
 # Transformer QA
@@ -37,7 +38,9 @@ Transformer的前馈神经网络采用了两个线性变换，激活函数为Rel
 
 * 为什么Position Embedding采用正余弦函数？[<sup>1</sup>](#参考文献)
 
-    \>>因为有$$PE(pos+k)=PE(pos)+PE(k)$$,这样使得模型能够记住相对位置信息。
+    \>>因为有
+    $$PE(pos+k)=PE(pos)+PE(k)$$
+    ,这样使得模型能够记住相对位置信息。
 
 
 * Transformer结构中残差连接的作用是什么？
